@@ -10,7 +10,7 @@ It's filled with open-source code, templates, scripts, ideas, frameworks and a w
 
 ### 🗣️ if you want to read more / connect
 [![bluesky](https://img.shields.io/badge/-letsconnect-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/mechanistics.bsky.social)  
-[![Blog](https://img.shields.io/badge/-Read_My_Ramblings-FF7139?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/tegridydev)  
+[![Blog](https://img.shields.io/badge/-Read_My_Ramblings-FF7139?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/tegridydev/activity/articles)  
 
 ---
 
