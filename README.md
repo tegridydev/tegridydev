@@ -1,6 +1,6 @@
 # 🖖 ~~tegridydev
 
-**researcher** | **open-source dev** | **sp00ky code stuff**
+**researcher** | **open-source dev** | **sp00ky code stuff** | **OSINT~dev**
 
 *"Moral deliberation—human, machine, or both—is best when multiple perspectives come together."*
 
