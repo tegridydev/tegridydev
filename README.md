@@ -2,7 +2,7 @@
 
 **researcher** | **open-source dev** | **sp00ky code stuff** | **OSINT~dev**
 
-*"Moral deliberation—human, machine, or both—is best when multiple perspectives come together."*
+*"moral deliberation"*
 
 Thanks for checking out my github! :) 
 
@@ -17,6 +17,6 @@ It's filled with open-source code, templates, scripts, ideas, frameworks and a w
 ### 📊 statsgobrrr
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tegridydev&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide=issues&include_all_commits=true)](https://github.com/tegridydev)
 
-*"92 is only half way, keep moving"*
+*"92 is only half way"*
 
 
