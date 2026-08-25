@@ -1,4 +1,4 @@
-# 🖖 ~~tegridydev
+# ~~tegridydev
 
 **researcher** | **opensource dev** | **sp00ky code stuff** 
 
